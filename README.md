@@ -3,17 +3,6 @@
 
 Application example built with [React](https://reactjs.org/) 18 and adding the [Material UI](https://mui.com/) CSS framework using the [@mui/material](https://www.npmjs.com/package/@mui/material) library.
 
-This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/adicionando-o-framework-de-css-material-ui-em-uma-aplicacao-react) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/adding-the-material-ui-css-framework-to-an-react-application-4jkl) in english.
-
-
-
-[![Website](https://shields.braskam.com/v1/shields?name=website&format=rectangle&size=small&radius=5)](https://rodrigo.kamada.com.br)
-[![LinkedIn](https://shields.braskam.com/v1/shields?name=linkedin&format=rectangle&size=small&radius=5)](https://www.linkedin.com/in/rodrigokamada)
-[![Twitter](https://shields.braskam.com/v1/shields?name=twitter&format=rectangle&size=small&radius=5&socialAccount=rodrigokamada)](https://twitter.com/rodrigokamada)
-[![Instagram](https://shields.braskam.com/v1/shields?name=instagram&format=rectangle&size=small&radius=5)](https://www.instagram.com/rodrigokamada)
-
-
-
 ## Prerequisites
 
 
@@ -35,7 +24,7 @@ Before you start, you need to install and configure the tools:
 ```powershell
 npx create-react-app react-mui --template typescript
 
-Creating a new React app in /home/rodrigokamada/Development/React/react-mui.
+Creating a new React app.
 
 Installing packages. This might take a couple of minutes.
 Installing react, react-dom, and react-scripts with cra-template-typescript...
@@ -77,7 +66,7 @@ Run `npm audit` for details.
 
 Created git commit.
 
-Success! Created react-mui at /home/rodrigokamada/Development/React/react-mui
+Success! Created react-mui
 Inside that directory, you can run several commands:
 
   npm start
@@ -367,12 +356,6 @@ modules by path ./src/ 27 KiB
   ./src/reportWebVitals.ts 1.41 KiB [built] [code generated]
 webpack 5.69.1 compiled successfully in 7201 ms
 ```
-
-**5.** Ready! Access the URL `http://localhost:300/react-mui` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/react-mui/) and [Stackblitz](https://stackblitz.com/edit/react18-mui).
-
-![React Material UI](https://res.cloudinary.com/rodrigokamada/image/upload/v1645616372/Blog/react-mui/react-mui.png)
-
-
 
 ## Cloning the application
 
